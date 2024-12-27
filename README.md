@@ -14,7 +14,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=𝗛𝗘𝗟𝗟𝗢+𝗪𝗢𝗥𝗟𝗗;𝗜'𝗠;𝗠𝗔𝗛𝗔𝗕𝗨𝗕+𝗥𝗔𝗛𝗠𝗔𝗡" width="auto" height="35"/>
 </p>
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="RANA/coding.gif"/>
+  <img alt="Coding GIF" width="300" height="auto" src="MAHABUB/coding.gif"/>
 </p>
 
 <h3 align="center">𝙼𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜</h3>
